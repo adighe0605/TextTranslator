@@ -1,5 +1,3 @@
-# TextTranslator
-
 # Description
 This is a text translator that allows translation of text from one language to other. This includes conversion in more than 90 languages.
 
